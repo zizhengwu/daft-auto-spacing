@@ -1,0 +1,3 @@
+[submodule "text-autospace.js"]
+	path = text-autospace.js
+	url = https://github.com/Dustland/text-autospace.js
