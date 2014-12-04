@@ -13,7 +13,7 @@
 GitHub 地址：https://github.com/Dustland/daft-auto-spacing/
 
 [1]. 為什麼你們就是不能加個空格呢？: https://github.com/vinta/paranoid-auto-spacing  
-[2]. 中英文混排时中文与英文之间是否要有空格？ http://www.zhihu.com/question/19587406/answer/12298128  
+[2]. 中英文混排时中文与英文之间是否要有空格？: http://www.zhihu.com/question/19587406/answer/12298128  
 [3]. text-autospace.js: https://github.com/mastermay/text-autospace.js
 
 
@@ -21,7 +21,7 @@ License
 =================
 The MIT License
 
-Copyright (c) 2010-2014 Google, Inc. http://angularjs.org
+Copyright (c) 2014-2014 Zizheng Wu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
