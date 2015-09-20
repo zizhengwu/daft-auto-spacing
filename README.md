@@ -9,8 +9,8 @@
 
 如果你是一个虔诚的「空格党」，可以使用这个简单的工具，每当 Plain Text 的场景（例如电子邮件与 V2EX 发帖），在所有的汉字与拉丁字母间添加一个空格。如果原本已经手动添加了空格，这个工具并不会在这之间再添加额外的空格。
 
-项目地址：https://dustland.github.io/daft-auto-spacing/  
-GitHub 地址：https://github.com/Dustland/daft-auto-spacing/
+项目地址：https://zizhengwu.github.io/daft-auto-spacing/  
+GitHub 地址：https://github.com/zizhengwu/daft-auto-spacing/
 
 [1]. 為什麼你們就是不能加個空格呢？: https://github.com/vinta/paranoid-auto-spacing  
 [2]. 中英文混排时中文与英文之间是否要有空格？: http://www.zhihu.com/question/19587406/answer/12298128  
